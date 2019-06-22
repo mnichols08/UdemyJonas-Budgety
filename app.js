@@ -3,8 +3,8 @@
 /*        Modules          */
 /***************************/
 /*
-    Important aspect of any robust application's achitecture
-    Keeps the units of code for a project both cleanly seperated and organized
+    Important aspect of any robust application's architecture
+    Keeps the units of code for a project both cleanly separated and organized
     Encapsulate some data into privacy and expose other data publicly.
 
     Structuring our code with modules:
@@ -21,7 +21,7 @@
     Add Event Handler
 
     // Remember, we want to use modules to store data that is only accessible within it's
-    // very own scope, seperate from all other modules within the project.
+    // very own scope, separate from all other modules within the project.
 
 */
 // Budget Controller
